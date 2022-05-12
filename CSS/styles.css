@@ -1,0 +1,37 @@
+  a:link {
+    color: #CBF1F5;
+    background-color: transparent;
+    text-decoration: bold;
+  }
+
+  a:visited {
+    color: #7971EA;
+    background-color: transparent;
+    text-decoration: bold;
+  }
+
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  hr {
+    background-color: transparent;
+    width: 15%;
+    border: 10px dotted;
+    border-style: none none dotted;
+    color: #7971EA;
+  }
+h1 {
+  color:#23A393;
+  }
+h3 {
+color:#7971EA;
+}
